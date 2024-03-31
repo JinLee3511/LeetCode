@@ -2,5 +2,5 @@
 
 | Problem             | Python             | TypeScript    | Swift          |
 |---------------------|--------------------|---------------|----------------|
-| 0001 Two Sum        |:heavy_check_mark: |               |                | 
+| 0001 Two Sum        |:heavy_check_mark:  | :x:           | :x:            | 
 
