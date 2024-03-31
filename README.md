@@ -1,6 +1,6 @@
 # LeetCode
 
-| Problem             | Python             | TypeScript    | Swift          |
+| Problems            | Python             | TypeScript    | Swift          |
 |---------------------|--------------------|---------------|----------------|
-| 0001 Two Sum        |:heavy_check_mark:  | :x:           | :x:            | 
+| Two Sum             |:white_check_mark:  | :x:           | :x:            | 
 
