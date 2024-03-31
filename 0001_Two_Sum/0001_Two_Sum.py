@@ -7,21 +7,13 @@ class Solution:
         '''
         targetValues = {}
 
-        # Save Values to add up to the Target
-        for i, num in enumerate(nums):
-            valueToAdd = target - num
-
-            # Ignore Values already stored
-            if valueToAdd in targetValues:
-                continue
-
-            targetValues[valueToAdd] = i
-
-        # Find Answer
-        for i, num in enumerate(nums):
-            # Found Answer with unique element (not same index)
-            if num in targetValues and i != targetValues[num]:
-                return [i, targetValues[num]]
+        for i in range(len(nums)):
+            # Found Match
+            if nums[i] in targetValues:
+                return [targetValues[nums[i]], i]
+            
+            # Save Value and Index
+            targetValues.update({target - nums[i]: i})
             
         # Not Found
         return [-1, -1]
