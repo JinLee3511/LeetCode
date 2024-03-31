@@ -21,8 +21,3 @@ function twoSum(nums: number[], target: number): number[] {
     // Not Found At All
     return [-1, -1];
 };
-
-const numsInput: number[] = [2,7,11,15];
-const targetInput: number = 9;
-
-console.log(twoSum(numsInput, targetInput));
