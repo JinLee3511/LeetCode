@@ -1,5 +1,4 @@
-# LeetCode
-### Jin Lee
+# LeetCode Solved - Jin Lee
 
 ## Level Solved
 Easy: 3
