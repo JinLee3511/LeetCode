@@ -1,14 +1,14 @@
 # LeetCode Solved -g Jin Lee
 
 ## Level Solved
-Easy: 3
-Medium: 2
-Hard: 0
+- Easy: 3
+- Medium: 2
+- Hard: 0
 
 ## Language Usage
-Python: 5
-TypeScript: 4
-Swift: 4
+- Python: 5
+- TypeScript: 4
+- Swift: 4
 
 ## Progress
 |#   |Problem                    |Level |Python              |TypeScript         |Swift              |Link                                                      |
