@@ -1,4 +1,4 @@
-# LeetCode Solved - Jin Lee
+# LeetCode Solved -g Jin Lee
 
 ## Level Solved
 Easy: 3
@@ -10,6 +10,7 @@ Python: 5
 TypeScript: 4
 Swift: 4
 
+## Progress
 |#   |Problem                    |Level |Python              |TypeScript         |Swift              |Link                                                      |
 |----|---------------------------|------|--------------------|-------------------|-------------------|----------------------------------------------------------|
 |0001|Two Sum                    |Easy  |:white_check_mark:  |:white_check_mark: |:white_check_mark: |https://leetcode.com/problems/two-sum/                    |
