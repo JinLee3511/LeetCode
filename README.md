@@ -1,9 +1,20 @@
 # LeetCode
+### Jin Lee
 
-|#   | Problem                   |Level | Python             | TypeScript        | Swift             | Link                                                     |
+## Level Solved
+Easy: 3
+Medium: 2
+Hard: 0
+
+## Language Usage
+Python: 5
+TypeScript: 4
+Swift: 4
+
+|#   |Problem                    |Level |Python              |TypeScript         |Swift              |Link                                                      |
 |----|---------------------------|------|--------------------|-------------------|-------------------|----------------------------------------------------------|
-|0001|Two Sum                    |Easy  |:white_check_mark:  |:white_check_mark: |:white_check_mark: | https://leetcode.com/problems/two-sum/                   |
-|0049|Group Anagrams             |Medium|:white_check_mark:  |:white_check_mark: |:white_check_mark: | https://leetcode.com/problems/group-anagrams/            |
-|0217|Contains Duplicate         |Easy  |:white_check_mark:  |:white_check_mark: |:white_check_mark: | https://leetcode.com/problems/contains-duplicate/        |
-|0242|Valid Anagram              |Easy  |:white_check_mark:  |:white_check_mark: |:white_check_mark: | https://leetcode.com/problems/valid-anagram/             |
-|0347|Top K Frequent Elements    |Medium|:white_check_mark:  |:x:                |:x:                | https://leetcode.com/problems/top-k-frequent-elements/   |
+|0001|Two Sum                    |Easy  |:white_check_mark:  |:white_check_mark: |:white_check_mark: |https://leetcode.com/problems/two-sum/                    |
+|0049|Group Anagrams             |Medium|:white_check_mark:  |:white_check_mark: |:white_check_mark: |https://leetcode.com/problems/group-anagrams/             |
+|0217|Contains Duplicate         |Easy  |:white_check_mark:  |:white_check_mark: |:white_check_mark: |https://leetcode.com/problems/contains-duplicate/         |
+|0242|Valid Anagram              |Easy  |:white_check_mark:  |:white_check_mark: |:white_check_mark: |https://leetcode.com/problems/valid-anagram/              |
+|0347|Top K Frequent Elements    |Medium|:white_check_mark:  |:x:                |:x:                |https://leetcode.com/problems/top-k-frequent-elements/    |
