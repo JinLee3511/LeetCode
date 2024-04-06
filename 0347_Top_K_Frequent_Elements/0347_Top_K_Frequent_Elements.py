@@ -55,7 +55,7 @@ class Solution:
         # O(n)
         for i in range(len(sortedNum)-1, 0, -1):
             # O(1) if array empty
-            # O(k) s.t sum(k_i) = n
+            # O(k) s.t sum(k_i) = n and k == len(sortedNum[i])
             for num in sortedNum[i]:
                 res.append(num)
                 if len(res) == k:
