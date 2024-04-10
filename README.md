@@ -1,12 +1,12 @@
 # LeetCode Solved - Jin Lee
 
 ## Level Solved
-- Easy: 3
+- Easy: 4
 - Medium: 2
 - Hard: 0
 
 ## Language Usage
-- Python: 5
+- Python: 6
 - TypeScript: 5
 - Swift: 5
 
@@ -14,6 +14,7 @@
 |#   |Problem                    |Level |Python              |TypeScript         |Swift              |Link                                                      |
 |----|---------------------------|------|--------------------|-------------------|-------------------|----------------------------------------------------------|
 |0001|Two Sum                    |Easy  |:white_check_mark:  |:white_check_mark: |:white_check_mark: |https://leetcode.com/problems/two-sum/                    |
+|0020|Valid Parenthesis          |Easy  |:white_check_mark:  |:white_check_mark: |:x:                |https://leetcode.com/problems/valid-parentheses/          |
 |0049|Group Anagrams             |Medium|:white_check_mark:  |:white_check_mark: |:white_check_mark: |https://leetcode.com/problems/group-anagrams/             |
 |0217|Contains Duplicate         |Easy  |:white_check_mark:  |:white_check_mark: |:white_check_mark: |https://leetcode.com/problems/contains-duplicate/         |
 |0242|Valid Anagram              |Easy  |:white_check_mark:  |:white_check_mark: |:white_check_mark: |https://leetcode.com/problems/valid-anagram/              |
