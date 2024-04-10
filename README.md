@@ -8,7 +8,7 @@
 ## Language Usage
 - Python: 6
 - TypeScript: 6
-- Swift: 5
+- Swift: 6
 
 ## Progress
 |#   |Problem                    |Level |Python              |TypeScript         |Swift              |Link                                                      |
