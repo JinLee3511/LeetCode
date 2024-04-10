@@ -7,7 +7,7 @@
 
 ## Language Usage
 - Python: 6
-- TypeScript: 5
+- TypeScript: 6
 - Swift: 5
 
 ## Progress
