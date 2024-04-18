@@ -2,11 +2,12 @@
 
 ## Level Solved
 - Easy: 9
-- Medium: 2
+- Medium: 3
 - Hard: 0
+- Total: 12
 
 ## Language Usage
-- Python: 11
+- Python: 12
 - TypeScript: 9
 - Swift: 9
 
@@ -15,11 +16,15 @@
 |----|------------------------------------|------|-------------------|-------------------|-------------------|-----------------------------------------------------------------------|
 |0001|Two Sum                             |Easy  |:white_check_mark: |:white_check_mark: |:white_check_mark: |https://leetcode.com/problems/two-sum/                                 |
 |0013|Roman To Integer                    |Easy  |:white_check_mark: |:x:                |:x:                |https://leetcode.com/problems/roman-to-integer/                        |
+
+|0015|3Sum                                |Medium|:x:                |:x:                |:x:                |https://leetcode.com/problems/3sum/                                    |
+
 |0020|Valid Parenthesis                   |Easy  |:white_check_mark: |:white_check_mark: |:white_check_mark: |https://leetcode.com/problems/valid-parentheses/                       |
 |0021|Merge Two Sorted Lists              |Easy  |:white_check_mark: |:white_check_mark: |:white_check_mark: |https://leetcode.com/problems/merge-two-sorted-lists/                  |
 |0026|Remove Duplicates From Sorted Array |Easy  |:white_check_mark: |:white_check_mark: |:white_check_mark: |https://leetcode.com/problems/remove-duplicates-from-sorted-array/     |
 |0049|Group Anagrams                      |Medium|:white_check_mark: |:white_check_mark: |:white_check_mark: |https://leetcode.com/problems/group-anagrams/                          |
 |0125|Valid Palindrome                    |Easy  |:white_check_mark: |:x:                |:x:                |https://leetcode.com/problems/valid-palindrome/                        |
+|0167|Two Sum II - Input Array Sorted     |Medium|:white_check_mark: |:x:                |:x:                |https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/        |
 |0217|Contains Duplicate                  |Easy  |:white_check_mark: |:white_check_mark: |:white_check_mark: |https://leetcode.com/problems/contains-duplicate/                      |
 |0242|Valid Anagram                       |Easy  |:white_check_mark: |:white_check_mark: |:white_check_mark: |https://leetcode.com/problems/valid-anagram/                           |
 |0347|Top K Frequent Elements             |Medium|:white_check_mark: |:white_check_mark: |:white_check_mark: |https://leetcode.com/problems/top-k-frequent-elements/                 |
