@@ -16,9 +16,7 @@
 |----|------------------------------------|------|-------------------|-------------------|-------------------|-----------------------------------------------------------------------|
 |0001|Two Sum                             |Easy  |:white_check_mark: |:white_check_mark: |:white_check_mark: |https://leetcode.com/problems/two-sum/                                 |
 |0013|Roman To Integer                    |Easy  |:white_check_mark: |:x:                |:x:                |https://leetcode.com/problems/roman-to-integer/                        |
-
 |0015|3Sum                                |Medium|:x:                |:x:                |:x:                |https://leetcode.com/problems/3sum/                                    |
-
 |0020|Valid Parenthesis                   |Easy  |:white_check_mark: |:white_check_mark: |:white_check_mark: |https://leetcode.com/problems/valid-parentheses/                       |
 |0021|Merge Two Sorted Lists              |Easy  |:white_check_mark: |:white_check_mark: |:white_check_mark: |https://leetcode.com/problems/merge-two-sorted-lists/                  |
 |0026|Remove Duplicates From Sorted Array |Easy  |:white_check_mark: |:white_check_mark: |:white_check_mark: |https://leetcode.com/problems/remove-duplicates-from-sorted-array/     |
