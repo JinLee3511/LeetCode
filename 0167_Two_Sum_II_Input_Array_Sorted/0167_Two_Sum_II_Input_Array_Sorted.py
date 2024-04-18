@@ -15,6 +15,7 @@ class Solution:
             elif numbers[i] + numbers[j] > target:
                 j -= 1
             
+            # Move left pointer to right
             else:
                 i += 1
 
