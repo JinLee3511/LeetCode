@@ -7,7 +7,7 @@
 - Total: 15
 
 ## Language Usage
-- Python: 14
+- Python: 15
 - TypeScript: 9
 - Swift: 9
 
@@ -21,9 +21,7 @@
 |0021|Merge Two Sorted Lists              |Easy  |:white_check_mark: |:white_check_mark: |:white_check_mark: |https://leetcode.com/problems/merge-two-sorted-lists/                  |
 |0026|Remove Duplicates From Sorted Array |Easy  |:white_check_mark: |:white_check_mark: |:white_check_mark: |https://leetcode.com/problems/remove-duplicates-from-sorted-array/     |
 |0049|Group Anagrams                      |Medium|:white_check_mark: |:white_check_mark: |:white_check_mark: |https://leetcode.com/problems/group-anagrams/                          |
-
-|0092|Reverse Linked List II              |Medium|:x:                |:x:                |:x:                |https://leetcode.com/problems/reverse-linked-list-ii/                  |
-
+|0092|Reverse Linked List II              |Medium|:white_check_mark: |:x:                |:x:                |https://leetcode.com/problems/reverse-linked-list-ii/                  |
 |0125|Valid Palindrome                    |Easy  |:white_check_mark: |:x:                |:x:                |https://leetcode.com/problems/valid-palindrome/                        |
 |0167|Two Sum II - Input Array Sorted     |Medium|:white_check_mark: |:x:                |:x:                |https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/        |
 |0206|Reverse Linked List                 |Easy  |:white_check_mark: |:x:                |:x:                |https://leetcode.com/problems/reverse-linked-list/                     |
