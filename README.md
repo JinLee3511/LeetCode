@@ -1,13 +1,13 @@
 # LeetCode Solved - Jin Lee
 
 ## Level Solved
-- Easy: 9
-- Medium: 4
+- Easy: 10
+- Medium: 5
 - Hard: 0
-- Total: 13
+- Total: 15
 
 ## Language Usage
-- Python: 13
+- Python: 14
 - TypeScript: 9
 - Swift: 9
 
@@ -21,8 +21,12 @@
 |0021|Merge Two Sorted Lists              |Easy  |:white_check_mark: |:white_check_mark: |:white_check_mark: |https://leetcode.com/problems/merge-two-sorted-lists/                  |
 |0026|Remove Duplicates From Sorted Array |Easy  |:white_check_mark: |:white_check_mark: |:white_check_mark: |https://leetcode.com/problems/remove-duplicates-from-sorted-array/     |
 |0049|Group Anagrams                      |Medium|:white_check_mark: |:white_check_mark: |:white_check_mark: |https://leetcode.com/problems/group-anagrams/                          |
+
+|0092|Reverse Linked List II              |Medium|:x:                |:x:                |:x:                |https://leetcode.com/problems/reverse-linked-list-ii/                  |
+
 |0125|Valid Palindrome                    |Easy  |:white_check_mark: |:x:                |:x:                |https://leetcode.com/problems/valid-palindrome/                        |
 |0167|Two Sum II - Input Array Sorted     |Medium|:white_check_mark: |:x:                |:x:                |https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/        |
+|0206|Reverse Linked List                 |Easy  |:white_check_mark: |:x:                |:x:                |https://leetcode.com/problems/reverse-linked-list/                     |
 |0217|Contains Duplicate                  |Easy  |:white_check_mark: |:white_check_mark: |:white_check_mark: |https://leetcode.com/problems/contains-duplicate/                      |
 |0242|Valid Anagram                       |Easy  |:white_check_mark: |:white_check_mark: |:white_check_mark: |https://leetcode.com/problems/valid-anagram/                           |
 |0347|Top K Frequent Elements             |Medium|:white_check_mark: |:white_check_mark: |:white_check_mark: |https://leetcode.com/problems/top-k-frequent-elements/                 |
