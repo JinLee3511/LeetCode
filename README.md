@@ -1,13 +1,13 @@
 # LeetCode Solved - Jin Lee
 
 ## Level Solved
-- Easy: 10
+- Easy: 11
 - Medium: 5
 - Hard: 0
-- Total: 15
+- Total: 16
 
 ## Language Usage
-- Python: 15
+- Python: 16
 - TypeScript: 9
 - Swift: 9
 
@@ -16,6 +16,7 @@
 |----|------------------------------------|------|-------------------|-------------------|-------------------|-----------------------------------------------------------------------|
 |0001|Two Sum                             |Easy  |:white_check_mark: |:white_check_mark: |:white_check_mark: |https://leetcode.com/problems/two-sum/                                 |
 |0013|Roman To Integer                    |Easy  |:white_check_mark: |:x:                |:x:                |https://leetcode.com/problems/roman-to-integer/                        |
+|0014|Longest Common Prefix               |Easy  |:white_check_mark: |:x:                |:x:                |https://leetcode.com/problems/longest-common-prefix/                   |
 |0015|3Sum                                |Medium|:white_check_mark: |:x:                |:x:                |https://leetcode.com/problems/3sum/                                    |
 |0020|Valid Parenthesis                   |Easy  |:white_check_mark: |:white_check_mark: |:white_check_mark: |https://leetcode.com/problems/valid-parentheses/                       |
 |0021|Merge Two Sorted Lists              |Easy  |:white_check_mark: |:white_check_mark: |:white_check_mark: |https://leetcode.com/problems/merge-two-sorted-lists/                  |
