@@ -2,12 +2,12 @@
 
 ## Level Solved
 - Easy: 13
-- Medium: 9
+- Medium: 10
 - Hard: 0
-- Total: 22
+- Total: 23
 
 ## Language Usage
-- Python: 22
+- Python: 23
 - TypeScript: 9
 - Swift: 9
 
@@ -17,6 +17,7 @@
 |0001|Two Sum                             |Easy  |:white_check_mark: |:white_check_mark: |:white_check_mark: |https://leetcode.com/problems/two-sum/                                 |
 |0007|Reverse Integer                     |Medium|:white_check_mark: |:x:                |:x:                |https://leetcode.com/problems/reverse-integer/                         |
 |0008|String to Integer (atoi)            |Medium|:white_check_mark: |:x:                |:x:                |https://leetcode.com/problems/string-to-integer-atoi/                  |
+|0012|Integer To Roman                    |Medium|:white_check_mark: |:x:                |:x:                |https://leetcode.com/problems/integer-to-roman/                        |
 |0013|Roman To Integer                    |Easy  |:white_check_mark: |:x:                |:x:                |https://leetcode.com/problems/roman-to-integer/                        |
 |0014|Longest Common Prefix               |Easy  |:white_check_mark: |:x:                |:x:                |https://leetcode.com/problems/longest-common-prefix/                   |
 |0015|3Sum                                |Medium|:white_check_mark: |:x:                |:x:                |https://leetcode.com/problems/3sum/                                    |
