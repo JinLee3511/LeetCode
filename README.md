@@ -2,12 +2,12 @@
 
 ## Level Solved
 - Easy: 13
-- Medium: 8
+- Medium: 9
 - Hard: 0
-- Total: 21
+- Total: 22
 
 ## Language Usage
-- Python: 21
+- Python: 22
 - TypeScript: 9
 - Swift: 9
 
@@ -29,6 +29,7 @@
 |0125|Valid Palindrome                    |Easy  |:white_check_mark: |:x:                |:x:                |https://leetcode.com/problems/valid-palindrome/                        |
 |0151|Reverse Words In A String           |Medium|:white_check_mark: |:x:                |:x:                |https://leetcode.com/problems/reverse-words-in-a-string/               |
 |0167|Two Sum II - Input Array Sorted     |Medium|:white_check_mark: |:x:                |:x:                |https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/        |
+|0204|Count Primes                        |Medium|:white_check_mark: |:x:                |:x:                |https://leetcode.com/problems/count-primes/                            |
 |0206|Reverse Linked List                 |Easy  |:white_check_mark: |:x:                |:x:                |https://leetcode.com/problems/reverse-linked-list/                     |
 |0217|Contains Duplicate                  |Easy  |:white_check_mark: |:white_check_mark: |:white_check_mark: |https://leetcode.com/problems/contains-duplicate/                      |
 |0242|Valid Anagram                       |Easy  |:white_check_mark: |:white_check_mark: |:white_check_mark: |https://leetcode.com/problems/valid-anagram/                           |
