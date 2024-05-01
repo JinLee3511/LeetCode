@@ -3,7 +3,7 @@ from typing import List
 class Solution: 
     def search(self, nums: List[int], target: int) -> int:
         i = 0 # first index
-        j = len(nums) # last index
+        j = len(nums)-1 # last index
 
         while i <= j:
             mid = (i+j)//2
@@ -12,20 +12,13 @@ class Solution:
             if nums[mid] == target:
                 return mid
 
-            # Could Not Find
-            if j-i == 1:
-                break
-
             # Go Left
             if nums[mid] > target:
-                j = mid
+                j = mid-1
             
             # Go Right
             else:
-                i = mid
+                i = mid+1
 
         # Could not find
         return -1
-
-s = Solution()
-print(s.search([-1,0,3,5,9,12], 2))
