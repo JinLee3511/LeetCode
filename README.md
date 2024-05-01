@@ -1,13 +1,13 @@
 # LeetCode Solved - Jin Lee
 
 ## Level Solved
-- Easy: 12
+- Easy: 13
 - Medium: 6
 - Hard: 0
-- Total: 18
+- Total: 19
 
 ## Language Usage
-- Python: 18
+- Python: 19
 - TypeScript: 9
 - Swift: 9
 
@@ -32,3 +32,4 @@
 |0242|Valid Anagram                       |Easy  |:white_check_mark: |:white_check_mark: |:white_check_mark: |https://leetcode.com/problems/valid-anagram/                           |
 |0347|Top K Frequent Elements             |Medium|:white_check_mark: |:white_check_mark: |:white_check_mark: |https://leetcode.com/problems/top-k-frequent-elements/                 |
 |0704|Binary Search                       |Easy  |:white_check_mark: |:white_check_mark: |:white_check_mark: |https://leetcode.com/problems/binary-search/                           |
+|2716|Minimize String Length              |Easy  |:white_check_mark: |:x:                |:x:                |https://leetcode.com/problems/minimize-string-length/                  |
