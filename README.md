@@ -1,13 +1,13 @@
 # LeetCode Solved - Jin Lee
 
 ## Level Solved
-- Easy: 11
+- Easy: 12
 - Medium: 6
 - Hard: 0
-- Total: 17
+- Total: 18
 
 ## Language Usage
-- Python: 17
+- Python: 18
 - TypeScript: 9
 - Swift: 9
 
@@ -22,6 +22,7 @@
 |0021|Merge Two Sorted Lists              |Easy  |:white_check_mark: |:white_check_mark: |:white_check_mark: |https://leetcode.com/problems/merge-two-sorted-lists/                  |
 |0026|Remove Duplicates From Sorted Array |Easy  |:white_check_mark: |:white_check_mark: |:white_check_mark: |https://leetcode.com/problems/remove-duplicates-from-sorted-array/     |
 |0049|Group Anagrams                      |Medium|:white_check_mark: |:white_check_mark: |:white_check_mark: |https://leetcode.com/problems/group-anagrams/                          |
+|0058|Length Of Last Word                 |Easy  |:white_check_mark: |:x:                |:x:                |https://leetcode.com/problems/length-of-last-word/                     |
 |0092|Reverse Linked List II              |Medium|:white_check_mark: |:x:                |:x:                |https://leetcode.com/problems/reverse-linked-list-ii/                  |
 |0125|Valid Palindrome                    |Easy  |:white_check_mark: |:x:                |:x:                |https://leetcode.com/problems/valid-palindrome/                        |
 |0151|Reverse Words In A String           |Medium|:white_check_mark: |:x:                |:x:                |https://leetcode.com/problems/reverse-words-in-a-string/               |
